@@ -16,8 +16,16 @@ Inside each game's folder, there is the authors.txt
 file, where the authors of the bezels are mentioned 
 (if they could be located).
 
-Any unnamed people who can prove that they are the 
-authors of a bezel, are sent to write me privately 
-on Discord and they will be added to the authors.txt 
-file in the game folder.
+This is a list of some of the most representative 
+authors of bezels for Hypseus Singe:
 
+PaCiFiKbAllA
+NeoKarnage
+Rhikki
+Widge
+Maximilium
+MBRetrocade6894
+TioTar
+
+Our thanks go to them for contributing with DirtBagXon 
+to making lasergames immortal.
